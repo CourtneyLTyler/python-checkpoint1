@@ -18,6 +18,12 @@
 # Your Vehicle class should take one argument (a `dict`) with the above
 # attributes. Define the properties on the class from the dict that is passed in.
 
+# class Vehicle('dict'): 
+#     def ___init___(self, name):
+#         self.name = name
+
+#    def get_vehicle_type(self):
+
 
 
 # #2: Create a Motorcycle class that inherits from the Vehicle class and has the
@@ -25,6 +31,7 @@
 # - property: `wheel_count` defaults to "no wheels!"
 # - method: `pop_wheelie` if `wheel_count` is not equal to 2 then it should be False,
 #       otherwise return "......pop!"
+
 
 
 
